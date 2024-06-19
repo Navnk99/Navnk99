@@ -13,7 +13,7 @@
 
 ## About Me
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3o7TKu8RvQuomFfUUU/giphy.gif" width="300px"/>
+<img align="right" alt="GIF" src="https://github.com/Navnk99/Navnk99/blob/main/assets/giphy.png" width="300px"/>
 
 Hello! I'm Naveen Kumar Rajendran, a dedicated Software Engineer and a passionate Graduate Student. I have a strong foundation in software development and a keen interest in advancing my skills and knowledge in the tech industry. With a commitment to continuous learning and a collaborative approach, I am excited to contribute to innovative projects and make a positive impact in the field.
 
