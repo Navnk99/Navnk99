@@ -1,10 +1,12 @@
 
 <h1 align="center">
-  <img src="https://github.com/Navnk99/Navnk99/blob/main/assets/200%20gif.png" alt="Intro GIF" width="50"/> Hey 👋, I'm Naveen Kumar Rajendran
+  <img src="https://github.com/Navnk99/Navnk99/blob/main/assets/200%20gif.png" alt="Intro GIF" width="100"/> Hey 👋, I'm Naveen Kumar Rajendran
 </h1>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Tech Geek GIF" width="50"/> Software Engineer | Graduate Student
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Tech Geek GIF" width="80"/>
+  
+  Software Engineer | Graduate Student
 </h3>
 
 ---
