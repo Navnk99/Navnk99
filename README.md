@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://github.com/your_username/your_repository/blob/main/assets/your_gif_file.gif?raw=true" alt="Intro GIF" width="50"/> Hey 👋, I'm Naveen Kumar Rajendran
+  <img src="https://github.com/Navnk99/Navnk99/blob/main/assets/200%20gif.png" alt="Intro GIF" width="50"/> Hey 👋, I'm Naveen Kumar Rajendran
 </h1>
 
 <h3 align="center">
